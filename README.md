@@ -1,4 +1,4 @@
-# UniformSearchBAB3
+# KB-UniformSearchBAB3
 
 Kelompok Kecerdasan Buatan
 1. Afgani Fajar Rizky
