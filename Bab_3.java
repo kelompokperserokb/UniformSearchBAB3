@@ -1,5 +1,4 @@
-
-public class bab_3 {
+public class Bab_3 {
 
     public static void main(String[] args) {
         Node a = new Node("A", 4);
